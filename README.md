@@ -1,4 +1,4 @@
-# 🧠 AI Notes Summarizer
+# AI Notes Summarizer
 
 Transform raw notes, documents, and text into structured insights using AI.
 
@@ -12,7 +12,7 @@ Built as a GenAI full-stack application using React, Express, and Groq.
 
 ---
 
-## ✨ Features
+## Features
 
 - 📄 Upload files (.txt, .pdf, .docx)
 - ✍️ Paste notes directly
@@ -24,7 +24,7 @@ Built as a GenAI full-stack application using React, Express, and Groq.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -38,11 +38,11 @@ Built as a GenAI full-stack application using React, Express, and Groq.
 
 ### AI
 - Groq API
-- Llama Model
+- LLM API Integration
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 AI-NOTES-SUMMARIZER
@@ -62,7 +62,7 @@ AI-NOTES-SUMMARIZER
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone repository:
 
@@ -78,7 +78,7 @@ cd AI-Notes-Summarizer
 
 ---
 
-## ▶️ Run Frontend
+## Run Frontend
 
 ```bash
 cd client
@@ -94,7 +94,7 @@ http://localhost:5173
 
 ---
 
-## ▶️ Run Backend
+## Run Backend
 
 Open another terminal:
 
@@ -112,7 +112,7 @@ http://localhost:5000
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create:
 
@@ -128,7 +128,7 @@ GROQ_API_KEY=your_api_key
 
 ---
 
-## 📸 Usage
+## Usage
 
 ### Option 1 — Paste Text
 Paste notes, articles, or documentation.
@@ -148,7 +148,7 @@ Click **Generate** to receive:
 
 ---
 
-## 🧪 Example
+## Example
 
 ### Input
 
@@ -172,7 +172,7 @@ AI helps computers do work faster and reduce manual effort.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates:
 
@@ -181,17 +181,3 @@ This project demonstrates:
 - File processing
 - Full-stack application development
 - Converting unstructured text into structured insights
-
----
-
-## 📌 Future Improvements
-
-- Export summary
-- Dark / Light mode
-- Multi-file support
-- Save history
-- Better formatting
-
----
-
-Made with ❤️ using React + Express + Groq
