@@ -14,13 +14,13 @@ Built as a GenAI full-stack application using React, Express, and Groq.
 
 ## Features
 
-- 📄 Upload files (.txt, .pdf, .docx)
-- ✍️ Paste notes directly
-- 🧠 AI-generated summaries
-- 🔍 Keyword extraction
-- 💡 Simple explanations
-- ⚡ Fast response generation
-- 🎨 Clean modern UI
+- Upload files (.txt, .pdf, .docx)
+- Paste notes directly
+- AI-generated summaries
+- Keyword extraction
+- Simple explanations
+- Fast response generation
+- Clean modern UI
 
 ---
 
