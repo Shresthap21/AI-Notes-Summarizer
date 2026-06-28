@@ -25,7 +25,7 @@ export default function App() {
   return (
     <div className="page">
       <div className="container">
-        <h1>🧠 AI Notes Summarizer</h1>
+        <h1>AI Notes Summarizer</h1>
 
         <p className="subtitle">
           Transform raw notes into summaries, keywords and easy explanations
